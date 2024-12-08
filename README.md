@@ -48,9 +48,21 @@ Using the Application
 4.	Enter a movie review in the text box.
 5.	Click Classify to view the predicted sentiment.
 
+
 Model Implementation
 The machine learning models were coded manually without using pre-built libraries like scikit-learn for training:
 •	Logistic Regression: Implements gradient descent for parameter optimization.
 •	Gradient Boosting: Custom-coded boosting mechanism for decision trees.
 All models were trained on a preprocessed dataset using the SimpleVectorizer class for feature extraction.
+
+![image](https://github.com/user-attachments/assets/6a7d7127-cc4f-4729-9473-f7d5de734fb5)
+![image](https://github.com/user-attachments/assets/c476ddc8-b224-4b14-902e-6264825f26d8)
+![image](https://github.com/user-attachments/assets/f63d3cb3-e97a-4fa6-a342-ef35e8c4af33)
+![image](https://github.com/user-attachments/assets/2c59d573-92f3-4859-b7ce-ac08b469f356)
+![image](https://github.com/user-attachments/assets/622926db-8142-43b8-b4ce-1c53c189380c)
+
+
+
+
+
 
